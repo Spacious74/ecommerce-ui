@@ -1,5 +1,5 @@
 # E-commerce Website UI (Angular)
-
+## Deployed Live Link : https://ecommerce-ui-assignment-by-vishal.netlify.app/
 
 This project is a front-end e-commerce website UI developed using **Angular (latest version)**.
 It demonstrates component-based architecture, dynamic API integration, and a responsive layout.
