@@ -1,12 +1,76 @@
-# EcommerceUi
+# E-commerce Website UI (Angular)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.5.
 
-## Development server
+This project is a front-end e-commerce website UI developed using **Angular (latest version)**.
+It demonstrates component-based architecture, dynamic API integration, and a responsive layout.
 
-To start a local development server, run:
 
+---
+
+
+## 🚀 Features
+
+
+- Dynamic navigation bar using provided APIs
+- Component-based and reusable Angular structure
+- Responsive UI using HTML & CSS
+- Public API integration (no authentication required)
+
+
+---
+
+
+## 🛠️ Tech Stack
+
+
+- Angular (Latest)
+- TypeScript
+- HTML5
+- CSS3
+- REST APIs
+
+
+---
+
+
+## 📦 Prerequisites
+
+
+Make sure the following are installed on your system:
+
+
+- **Node.js** (latest recommended) v24 used
+- **Angular CLI** (latest recommended) v21 used
+- **Git**
+
+
+Check versions using:
 ```bash
+node -v
+npm -v
+ng version
+git --version
+```
+## 🚗Steps to Run the Project Locally
+
+1️⃣ Clone the Repository
+
+```bash 
+git clone https://github.com/Spacious74/ecommerce-ui.git
+```
+2️⃣ Navigate to Project Directory
+
+```bash 
+cd ecommerce-ui
+```
+3️⃣ Install Dependencies
+
+```bash 
+npm install
+```
+4️⃣ Run the Application
+
+```bash 
 ng serve
 ```
 
