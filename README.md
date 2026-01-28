@@ -15,63 +15,63 @@ Once the server is running, open your browser and navigate to `http://localhost:
 
 ## Folder Structure
 
-├── src/ (12800 tokens)
-    ├── app/ (12000 tokens)
-    │   ├── app.css
-    │   ├── components/ (9300 tokens)
-    │   │   ├── homepage/ (300 tokens)
-    │   │   │   ├── homepage.css
-    │   │   │   ├── homepage.html
-    │   │   │   └── homepage.ts (200 tokens)
-    │   │   ├── home-footer-section/ (900 tokens)
-    │   │   │   ├── home-footer-section.ts
-    │   │   │   ├── home-footer-section.html (400 tokens)
-    │   │   │   └── home-footer-section.css (400 tokens)
-    │   │   ├── home-hero-section/ (2100 tokens)
-    │   │   │   ├── home-hero-section.ts (400 tokens)
-    │   │   │   ├── home-hero-section.html (500 tokens)
-    │   │   │   └── home-hero-section.css (1200 tokens)
-    │   │   ├── home-product-section/ (2600 tokens)
-    │   │   │   ├── home-product-section.ts (500 tokens)
-    │   │   │   ├── home-product-section.html (700 tokens)
-    │   │   │   └── home-product-section.css (1400 tokens)
-    │   │   └── navbar/ (3400 tokens)
-    │   │   │   ├── navbar.ts (700 tokens)
-    │   │   │   ├── navbar.css (1300 tokens)
-    │   │   │   └── navbar.html (1400 tokens)
-    │   ├── app.html
-    │   ├── assets/ (100 tokens)
-    │   │   └── fonts/ (100 tokens)
-    │   │   │   └── AspektaVF.woff2
-    │   ├── app.routes.server.ts
-    │   ├── app.routes.ts
-    │   ├── models/ (500 tokens)
-    │   │   ├── PreparedTree.ts
-    │   │   ├── CategoryTree.ts (200 tokens)
-    │   │   └── MainCategories.ts (200 tokens)
-    │   ├── app.ts
-    │   ├── app.config.server.ts
-    │   ├── app.config.ts (200 tokens)
-    │   ├── app.spec.ts (200 tokens)
-    │   └── services/ (1300 tokens)
-    │   │   ├── category.service.ts (200 tokens)
-    │   │   └── sampleProduct.service.ts (1100 tokens)
-    ├── main.ts
-    ├── main.server.ts
-    ├── styles.css
-    ├── index.html
-    └── server.ts (400 tokens)
-├── public/ (100 tokens)
-    └── favicon.ico
-├── .vscode/ (600 tokens)
-    ├── extensions.json
-    ├── launch.json (200 tokens)
-    └── tasks.json (300 tokens)
-├── .editorconfig
-├── tsconfig.spec.json
-├── tsconfig.app.json
-├── .gitignore (200 tokens)
-├── tsconfig.json (300 tokens)
-├── package.json (300 tokens)
-├── angular.json (500 tokens)
-└── README.md (600 tokens)
+├── src<br/>
+    ├── app<br/>
+    │   ├── app.css<br/>
+    │   ├── components/ <br/>
+    │   │   ├── homepage/ <br/>
+    │   │   │   ├── homepage.css<br/>
+    │   │   │   ├── homepage.html<br/>
+    │   │   │   └── homepage.ts<br/>
+    │   │   ├── home-footer-section/<br/>
+    │   │   │   ├── home-footer-section.ts<br/>
+    │   │   │   ├── home-footer-section.html <br/>
+    │   │   │   └── home-footer-section.css<br/>
+    │   │   ├── home-hero-section/ <br/>
+    │   │   │   ├── home-hero-section.ts <br/>
+    │   │   │   ├── home-hero-section.html<br/>
+    │   │   │   └── home-hero-section.css <br/>
+    │   │   ├── home-product-section/ <br/>
+    │   │   │   ├── home-product-section.ts <br/>
+    │   │   │   ├── home-product-section.html<br/>
+    │   │   │   └── home-product-section.css <br/>
+    │   │   └── navbar/<br/>
+    │   │   │   ├── navbar.ts <br/>
+    │   │   │   ├── navbar.css <br/>
+    │   │   │   └── navbar.html <br/>
+    │   ├── app.html<br/>
+    │   ├── assets/ <br/>
+    │   │   └── fonts/ <br/>
+    │   │   │   └── AspektaVF.woff2<br/>
+    │   ├── app.routes.server.ts<br/>
+    │   ├── app.routes.ts<br/>
+    │   ├── models/ <br/>
+    │   │   ├── PreparedTree.ts<br/>
+    │   │   ├── CategoryTree.ts <br/>
+    │   │   └── MainCategories.ts <br/>
+    │   ├── app.ts<br/>
+    │   ├── app.config.server.ts<br/>
+    │   ├── app.config.ts <br/>
+    │   ├── app.spec.ts<br/>
+    │   └── services/<br/>
+    │   │   ├── category.service.ts <br/>
+    │   │   └── sampleProduct.service.ts <br/>
+    ├── main.ts<br/>
+    ├── main.server.ts<br/>
+    ├── styles.css<br/>
+    ├── index.html<br/>
+    └── server.ts<br/>
+├── public/ <br/>
+    └── favicon.ico<br/>
+├── .vscode/<br/>
+    ├── extensions.json<br/>
+    ├── launch.json <br/>
+    └── tasks.json <br/>
+├── .editorconfig<br/>
+├── tsconfig.spec.json<br/>
+├── tsconfig.app.json<br/>
+├── .gitignore <br/>
+├── tsconfig.json <br/>
+├── package.json<br/>
+├── angular.json <br/>
+└── README.md <br/>
