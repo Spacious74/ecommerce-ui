@@ -68,10 +68,10 @@ Once the server is running, open your browser and navigate to `http://localhost:
     ├── launch.json (200 tokens)
     └── tasks.json (300 tokens)
 ├── .editorconfig
-├── README.md
 ├── tsconfig.spec.json
 ├── tsconfig.app.json
 ├── .gitignore (200 tokens)
 ├── tsconfig.json (300 tokens)
 ├── package.json (300 tokens)
-└── angular.json (500 tokens)
+├── angular.json (500 tokens)
+└── README.md (600 tokens)
